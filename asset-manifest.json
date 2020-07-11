@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mhsokar/WEB215/Lesson14/static/css/main.beaf461c.chunk.css",
+    "main.js": "/mhsokar/WEB215/Lesson14/static/js/main.b0854e84.chunk.js",
+    "main.js.map": "/mhsokar/WEB215/Lesson14/static/js/main.b0854e84.chunk.js.map",
+    "runtime-main.js": "/mhsokar/WEB215/Lesson14/static/js/runtime-main.5845026d.js",
+    "runtime-main.js.map": "/mhsokar/WEB215/Lesson14/static/js/runtime-main.5845026d.js.map",
+    "static/js/2.5c20e2d1.chunk.js": "/mhsokar/WEB215/Lesson14/static/js/2.5c20e2d1.chunk.js",
+    "static/js/2.5c20e2d1.chunk.js.map": "/mhsokar/WEB215/Lesson14/static/js/2.5c20e2d1.chunk.js.map",
+    "index.html": "/mhsokar/WEB215/Lesson14/index.html",
+    "precache-manifest.5c60f16c036ce4e309fe63c8c052f117.js": "/mhsokar/WEB215/Lesson14/precache-manifest.5c60f16c036ce4e309fe63c8c052f117.js",
+    "service-worker.js": "/mhsokar/WEB215/Lesson14/service-worker.js",
+    "static/css/main.beaf461c.chunk.css.map": "/mhsokar/WEB215/Lesson14/static/css/main.beaf461c.chunk.css.map",
+    "static/js/2.5c20e2d1.chunk.js.LICENSE": "/mhsokar/WEB215/Lesson14/static/js/2.5c20e2d1.chunk.js.LICENSE",
+    "static/media/mirna.jpg": "/mhsokar/WEB215/Lesson14/static/media/mirna.4ab30596.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5845026d.js",
+    "static/js/2.5c20e2d1.chunk.js",
+    "static/css/main.beaf461c.chunk.css",
+    "static/js/main.b0854e84.chunk.js"
+  ]
+}
